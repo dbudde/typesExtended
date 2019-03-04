@@ -1,1 +1,3 @@
-
+A library that extends the base Javascript types by adding helper methods to the base types safely.
+The base types are first examined to see if a method already exists and if it does not exist, then
+the method is added.
